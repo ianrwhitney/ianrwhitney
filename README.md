@@ -1,6 +1,4 @@
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=FF4500&size=30&lines=Software+Engineer;Problem+Solver;+Curious+Learner)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ianrwhitney&theme=radical&hide_border=true)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&color=FF4500&size=30&lines=Software+Engineer;Problem+Solver)
 
 ## 🚀 Tech Stack
 
