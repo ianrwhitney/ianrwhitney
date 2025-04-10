@@ -28,6 +28,9 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white) &nbsp;
 ![Splunk](https://img.shields.io/badge/Splunk-%230A6A9C.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
+### Badges
+ <img width="224px" src="https://badges.layer5.io/assets/badges/hacktoberfest-24-contributor/hacktoberfest-24-contributor.png"></img>
+
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ian-whit/)
